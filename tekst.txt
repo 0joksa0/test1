@@ -1,3 +1,4 @@
 main grana tekst
 tekst za granu 1
 
+dodat tekst za prikaz pull comande
