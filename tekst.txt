@@ -1,1 +1,3 @@
 main grana tekst
+tekst za granu 1
+
